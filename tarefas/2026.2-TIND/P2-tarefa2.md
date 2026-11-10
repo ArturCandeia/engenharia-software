@@ -1,15 +1,16 @@
-# P2 — Detalhamento, Arquitetura e Implementação Inicial (Individual · YP-Agentic)
+# P2 - Projeto 02 - Requisitos, Arquitetura e Implementação
 
 **Disciplina:** Engenharia de Software II — DCT2302
 **Turma:** 2026.2-TIND (Ensino Individualizado)
-**Processo:** [YP-Agentic](../../yp-agentic/manual-passo-a-passo.md)
+**Processo:** [YP-Agentic](https://github.com/tacianosilva/engenharia-software/tree/main/yp-agentic)
 **Iteração:** 1 · Fases 4–6 (Planejamento de Iteração, Implementação e Implantação)
-**Prazo:** **06/10/2026**
+**Publicação:** 22/09/2026
+**Data limite de envio:** **06/10/2026**
 **Discente:** Artur Morais Candeia
 
 ## 1. Contexto
 
-Continuação da **P1**. Nesta tarefa você detalha a arquitetura, planeja a primeira iteração e entrega a **fatia vertical "Gestão de Eventos"** (da tela ao banco), com testes. Leia novamente o `yp-agentic/manual-passo-a-passo.md` e o Anexo A da P1 (estado atual do SIGAEX).
+Continuação da **P1**. Nesta tarefa você detalha a arquitetura, planeja a primeira iteração e entrega a **fatia vertical "Gestão de Eventos"** (da tela ao banco), com testes. Leia novamente o `yp-agentic/manual-passo-a-passo.md` (https://github.com/tacianosilva/engenharia-software/blob/main/yp-agentic/manual-passo-a-passo.md) e o Anexo A da P1 (estado atual do SIGAEX).
 
 > **Escopo externo ao P2:** Usuários/Perfil, Inscrições e Check-in/Presença ficam para **P3/P4**.
 
@@ -49,6 +50,6 @@ Conforme `templates/doc-arquitetura.md`:
 
 - Issue por US/tarefa; branch `feature/#<id>-<nome>`; commits Conventional Commits com `#<id>`; PR com descrição e `Closes #<id>`.
 
-## 4. Critérios (10,0 pontos)
+## 4. Avaliação (10,0 pontos)
 
-Conforme `P2-criterios.md`.
+A avaliação considera a completude e a qualidade técnica dos artefatos produzidos, o fluxo Git/GitHub adotado (issues, branches, commits convencionais e Pull Requests) e a coerência entre documentação e código. Os pesos detalhados de cada critério são divulgados no feedback individual após a entrega.

@@ -1,7 +1,9 @@
-**Tarefa 02 - Teste de Unidade**
+# T2 - Tarefa 02 - Testes de Unidade, Integração e Mocks
 
 **Turma:** DCT2302 — 2026.2-TIND (Ensino Individualizado)
 **Discente:** Artur Morais Candeia
+**Publicação:** 06/10/2026
+**Data limite de envio:** 20/10/2026
 
 Para responder às questões abaixo você deve utilizar um **fork** do repositório **engenharia-software** no github: [https://github.com/tacianosilva/engenharia-software](https://github.com/tacianosilva/engenharia-software). Acesse o Guia Básico de Markdown: [https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown)
 

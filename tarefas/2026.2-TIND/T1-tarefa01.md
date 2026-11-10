@@ -1,7 +1,9 @@
-**Tarefa 01 - Git e GitHub com Markdown**
+# T1 - Tarefa 01 - Git, GitFlow, Tags e SemVer Automatizado
 
 **Turma:** DCT2302 — 2026.2-TIND (Ensino Individualizado)
 **Discente:** Artur Morais Candeia
+**Publicação:** 18/08/2026
+**Data limite de envio:** 08/09/2026
 
 Para responder às questões abaixo você deve utilizar um **fork** do repositório **engenharia-software** no github: [https://github.com/tacianosilva/engenharia-software](https://github.com/tacianosilva/engenharia-software).
 
